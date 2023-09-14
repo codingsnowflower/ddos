@@ -9,8 +9,8 @@ class VictimDevice:
 
 def show_banner():
     print("<< SYN FLOOD 공격")
-    print("[!] By 김가빈")
-    print("[!] Python: 김가빈")
+    print("[!] By snowflower")
+    print("[!] Python: snowflower")
     print()
     print("[*] 인터페이스: {}".format(conf.iface))
 
